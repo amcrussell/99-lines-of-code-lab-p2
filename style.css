@@ -1,0 +1,32 @@
+
+
+body {
+    background-color: cyan;
+    text-align: center;
+
+}
+
+h1 {
+    color:black;
+    height: 5em;
+    
+
+}
+
+.friend {
+    background-color: aquamarine;
+    position:relative;
+    padding-top: 1em;
+
+}
+
+div {
+    width: 20em;
+    height: 25em;
+    margin: 0 auto;
+    
+}
+
+h3>.friend {
+    text-transform: uppercase;
+}
