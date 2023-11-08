@@ -30,3 +30,8 @@ div {
 h3>.friend {
     text-transform: uppercase;
 }
+
+.sm {
+    height: 10em;
+    
+}
